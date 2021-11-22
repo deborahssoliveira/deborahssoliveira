@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Deborah, i have 21 years old
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning programming logic and algorithms
+- 👀 I’m interested in programming and games
+- 🌱 I’m currently going to college of software engineering and learning about programming logic and algorithms
 - 💞️ I’m looking to collaborate on a initial internship
 - 📫 How to reach me: Email: deborahssoliveira@gmail.com 
 Instagram: @dehsoaresv
