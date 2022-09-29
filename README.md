@@ -3,6 +3,6 @@
 - 🌱 I'm a student of analysis and systems development with focus in front-end
 - 💞️ Affinity with HTML, CSS, JS, design, UX/UI and game development
 - 📫 How to reach me: Email: deborahssoliveira@gmail.com 
-Instagram: @dehssv
+Instagram: @deborahssv
 
 
